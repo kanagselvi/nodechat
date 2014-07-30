@@ -1,0 +1,31 @@
+{
+  "name": "herokusample",
+  "version": "0.0.1",
+  "description": "herokusample nodejs",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kanagselvi/nodechat.git"
+  },
+  "keywords": [
+    "heroku",
+    "sample",
+    "nodejs"
+  ],
+  "author": "krajavetrivel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanagselvi/nodechat/issues"
+  },
+  "homepage": "https://github.com/kanagselvi/nodechat",
+  "dependencies": {
+    "express": "^4.7.2",
+    "logfmt": "^1.1.2"
+  }
+  "engines": {
+    "node": "0.10.28"
+  }
+}
